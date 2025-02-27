@@ -107,21 +107,21 @@ Agile – Best for Fast-Paced, Evolving Projects:
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer;
+* Software Developer;
 1. Develops software based on specifications using programming languages like Python, Java, or C++.
 2. Designs and implements software architecture and database structures.
 3. Fixes bugs and optimizes application performance.
 4. Collaborates with designers, testers, and project managers to ensure software meets business needs.
 5. Uses version control systems like Git for code management.
 6. Writes and maintains technical documentation.
-Quality Assurance Engineer;
+* Quality Assurance Engineer;
 1. Designs and executes test plans, including manual and automated testing.
 2. Identifies, reports, and tracks bugs using tools like JIRA or Bugzilla.
 3. Conducts different types of testing (unit, integration, performance, security, usability).
 4. Works closely with developers to ensure fixes and improvements meet quality standards.
 5. Implements automated testing frameworks like Selenium or JUnit.
 6. Ensures software compliance with security and performance benchmarks.
-Project Manager;
+* Project Manager;
 1. Defines project goals, scope, and timelines.
 2. Manages resources, budgets, and schedules.
 3. Communicates with stakeholders, including clients, developers, and QA teams.
